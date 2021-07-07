@@ -1,1 +1,1 @@
-run="bash node.sh"
+run="node karma.js"
